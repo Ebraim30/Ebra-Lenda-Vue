@@ -97,6 +97,7 @@ form {
   border-radius: 50px;
   text-align: center;
   padding: 25px;
+  background-color: rgb(81, 0, 212);
 }
 
 </style>
